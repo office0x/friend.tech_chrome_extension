@@ -38,7 +38,7 @@ Once the extension is installed, it will automatically add a new section to Twit
 
 ## Support and Feedback
 
-If you encounter any issues or have feedback, please [open an issue](https://github.com/office0x/friend.tech_chrome_extension/issues) in this repository or on [Twitter.com/office0x](https://twitter.com/office0x). We welcome your contributions and suggestions to improve the extension.
+If you encounter any issues or have feedback, please [open an issue](https://github.com/office0x/friend.tech_chrome_extension/issues) in this repository or on [twitter.com/office0x](https://twitter.com/office0x). We welcome your contributions and suggestions to improve the extension.
 
 ## License
 
