@@ -1,0 +1,54 @@
+/* Style the table container */
+.friend-tech-сontainer {
+  width: 100%;
+  margin: 10px auto 0; /* Add top margin of 10px */
+  padding: 0px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the table */
+.friend-tech-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 10px; /* Add a border-radius of 10px to the table */
+}
+
+/* Style table headers */
+.friend-tech-table th {
+  background-color: #f2f2f2;
+  text-align: center; /* Center-align header text */
+  padding: 10px;
+  border-bottom: 1px solid #ddd; /* Add a bottom border to create separators */
+  border-right: 1px dashed #ddd; /* Add a right border with dashed line for separators */
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Use Helvetica Neue or fallback fonts */
+}
+
+/* Style the last table header without right border */
+.friend-tech-table th:last-child {
+  border-right: 1px dashed #ddd; /* Add a right border with dashed line for the last header */
+}
+
+/* Style table data cells */
+.friend-tech-table td {
+  text-align: center; /* Center-align cell content */
+  padding: 10px;
+  border: 1px solid #ddd;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Use Helvetica Neue or fallback fonts */
+}
+
+/* Style the "Buy" button */
+#buyButton {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: rgb(0, 186, 250);
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Use Helvetica Neue or fallback fonts */
+}
+
+#buyButton:hover {
+  background-color: rgb(0, 150, 200);
+}
