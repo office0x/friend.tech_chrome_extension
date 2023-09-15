@@ -38,6 +38,11 @@
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Use Helvetica Neue or fallback fonts */
 }
 
+/* Style table rows */
+.friend-tech-table tr {
+  background-color: white; /* Set the background color to white */
+}
+
 /* Style the "Buy" button */
 #buyButton {
   display: inline-block;
