@@ -10,6 +10,8 @@ The Twitter Friend.Tech Extension is a Chrome browser extension that enhances yo
 
 - **Seamless Integration**: The extension seamlessly integrates into the Twitter interface, making it easy to access valuable insights without leaving Twitter.
 
+![Extension Logo](screenshot.png)
+
 ## Installation
 
 To use the Twitter Friend.Tech Extension, follow these steps:
