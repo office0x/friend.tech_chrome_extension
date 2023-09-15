@@ -13,6 +13,7 @@
   width: 100%;
   border-collapse: collapse;
   border-radius: 10px; /* Add a border-radius of 10px to the table */
+  background-color: #fff; /* Set the background color to white */
 }
 
 /* Style table headers */
@@ -36,11 +37,6 @@
   padding: 10px;
   border: 1px solid #ddd;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; /* Use Helvetica Neue or fallback fonts */
-}
-
-/* Style table rows */
-.friend-tech-table tr {
-  background-color: white; /* Set the background color to white */
 }
 
 /* Style the "Buy" button */
